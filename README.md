@@ -21,3 +21,8 @@ Then, open Sublime and go to Sublime Text > Key Bindings - User and add the foll
 ```
 
 This will bind the command to the shortcut command-shift-r on OS X, but you can whatever shortcut makes you happy. The rulers displayed can be changed by modifying the rulers list.
+
+Without rulers:
+![No rulers](http://i.imgur.com/BcxkKbG.png)
+With rulers
+![Yes rulers](http://i.imgur.com/EWOIU2d.png)
