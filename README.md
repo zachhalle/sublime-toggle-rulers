@@ -24,5 +24,5 @@ This will bind the command to the shortcut command-shift-r on OS X, but you can 
 
 Without rulers:
 ![No rulers](http://i.imgur.com/BcxkKbG.png)
-With rulers
+With rulers:
 ![Yes rulers](http://i.imgur.com/EWOIU2d.png)
